@@ -20,7 +20,7 @@ Atualmente trabalho como autônomo e estou em busca de uma oportunidade de iníc
   <img align="center" alt="Mike-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
 </div><br>
 
-  ![Mike Linder](https://github-readme-stats.vercel.app/api?username=mklinder&show_icons=true&theme=radical)
+  ![Mike Linder](https://github-readme-stats.vercel.app/api?username=mklinder&show_icons=true&theme=tokyonight)
 
  
 
