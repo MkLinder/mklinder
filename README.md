@@ -1,4 +1,4 @@
-### Olá 👋 Me chamo Mike Linder. 
+### Olá 👋 Me chamo Mike. 
 
 Sou desenvolvedor de software backend e estou me graduando em Análise e Desenvolvimento de Sistemas. Estudo programação desde o início de 2022, e já tenho uma bagagem de conhecimentos.<br>
 Atualmente trabalho como autônomo e estou em busca de uma oportunidade de início de carreira Dev.
