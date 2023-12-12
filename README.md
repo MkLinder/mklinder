@@ -1,7 +1,7 @@
 ### Olá 👋 Me chamo Mike. 
 
 Sou desenvolvedor de software backend e estou me graduando em Análise e Desenvolvimento de Sistemas.<br>
-Estou em transição de carreira e busco uma oportunidade em desenvolvimento de sistemas , banco de dados relacionais ou algo relacionado a desenvolviemento com programação.<br> 
+Estou em transição de carreira e busco uma oportunidade em desenvolvimento de sistemas , banco de dados relacionais ou algo relacionado a desenvolvimento com programação.<br> 
 Iniciei meus estudos em Janeiro de 2022 e já possuo uma bagagem considerável de conhecimentos, mas como todos sabemos, na área de tecnologia necessitamos continuar estudando para acompanhar a evolução tecnológica. Por isso busco uma oportunidade que também me proporcione agregar conhecimentos, bem como ampliá-los com novos horizontes que façam de mim um grande "Dev" e não apenas mais um.
 
 
