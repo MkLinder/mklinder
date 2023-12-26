@@ -22,7 +22,7 @@ Iniciei meus estudos em Janeiro de 2022 e já possuo uma bagagem considerável d
   <img align="center" alt="Mike-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 </div><br>
 
-  ![Mike Linder](https://github-readme-stats.vercel.app/api?username=mklinder&show_icons=true&theme=tokyonight)
+  ![Mike Linder](https://github-readme-stats.vercel.app/api?username=mklinder&show_icons=true&theme=tokyonight&hide_title=true&hide=stars)
 
  
 
