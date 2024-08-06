@@ -18,16 +18,9 @@ Estou disponível para uma oportunidade de estágio ou clt/pj de tempo integral.
 </div>
 
 ##
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,typescript,react,git,postgresql,mysql&perline=9)](https://skillicons.dev)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mike-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mike-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Mike-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Mike-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Mike-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-</div><br>
-
-  ![Mike Linder](https://github-readme-stats.vercel.app/api?username=mklinder&show_icons=true&theme=tokyonight&hide_title=true&hide=stars)
+![Mike Linder](https://github-readme-stats.vercel.app/api?username=mklinder&show_icons=true&theme=tokyonight&hide_title=true&hide=stars)
 
  
 
