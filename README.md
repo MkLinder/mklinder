@@ -2,8 +2,10 @@
 
 Sou desenvolvedor fullstack e estou me graduando em Análise e Desenvolvimento de Sistemas. 
 Concluí os cursos de Desenvolvimento Backend com Javascript e Desenvolvimento Frontend com Angular. Atualmente, faço o curso de Desenvolvimento Fullstack com Typescript e React, programado para concluir em Agosto/2024.
+<br>
 Iniciei meus estudos em Janeiro de 2022 e já possuo uma bagagem considerável de conhecimentos. 
 Hoje possuo habilidades de desenvolvimento de API's RESTful, modelagem de dados (SQL), aplicações web e desenvolvimento de SPA's com React. No momento, estou aprendendo a trabalhar com testes unitários.
+<br>
 Pretendo ser um desenvolvedor de ponta a ponta para atender o máximo de demandas da empresa em que eu estiver trabalhando e empreender com foco no resultado para o cliente final, e assim poder fazer parte da evolução da empresa.
 Estou disponível para uma oportunidade de estágio ou clt/pj de tempo integral.
 
