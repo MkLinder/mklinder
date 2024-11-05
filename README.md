@@ -1,7 +1,7 @@
 ### Olá 👋 Me chamo Mike. 
 
 Sou desenvolvedor fullstack e estou me graduando em Análise e Desenvolvimento de Sistemas. 
-Concluí os cursos de Desenvolvimento Backend com Javascript e Desenvolvimento Frontend com Angular. Atualmente, faço o curso de Desenvolvimento Fullstack com Typescript e React, programado para concluir em Agosto/2024.
+Concluí os cursos de Desenvolvimento Backend com Javascript, Desenvolvimento Fullstack com Typescript e React e Desenvolvimento Frontend com Angular.
 <br>
 Iniciei meus estudos em Janeiro de 2022 e já possuo uma bagagem considerável de conhecimentos. 
 Hoje possuo habilidades de desenvolvimento de API's RESTful, modelagem de dados (SQL), aplicações web e desenvolvimento de SPA's com React. No momento, estou aprendendo a trabalhar com testes unitários.
